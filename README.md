@@ -1,3 +1,20 @@
+<h1 align="center">Hey 👋, I'm Tarun Saini</h1>
+<h3 align="center">Android Developer crafting apps with 10K+ downloads on Play Store 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Android+Developer+%7C+2%2B+Years;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Building+Apps+People+Love+%F0%9F%93%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tarun-108sr99"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tarun1235saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Tarun00108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Replace # with your actual portfolio URL -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I'm currently working at **i-Next Web Technology** as an Android Developer<br>
 📱 Built & shipped multiple Play Store apps with **10K+ combined downloads**<br>
