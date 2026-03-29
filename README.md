@@ -18,7 +18,7 @@
 
 
 ## 🌐 Socials:
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/tarun-108sr99"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tarun1235saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Tarun00108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
