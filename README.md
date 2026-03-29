@@ -96,14 +96,6 @@
 📚 **Coursework:** DSA • OOP • Operating Systems • DBMS • Computer Networks
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tarun00108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tarun00108&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun00108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Tarun00108&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7)
-
 ## 📈 Contribution Graph:
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarun00108&theme=tokyo-night&hide_border=true)](https://github.com/Tarun00108)
 
