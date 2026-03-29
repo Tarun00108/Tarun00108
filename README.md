@@ -24,7 +24,6 @@ Markdown
 
 ## 🙋‍♂️ About Me
 
-```text
 🔭 Currently working as Android Developer at i-Next Web Technology, Chandigarh
 📱 Built & shipped multiple Play Store apps with 10K+ combined downloads
 🧱 Clean code enthusiast — MVVM, Clean Architecture & Dagger Hilt are my daily tools
