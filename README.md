@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Android+Developer+%7C+2%2B+Years;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+%7C+Clean+Architecture;Building+Apps+People+Love+%F0%9F%93%B1" alt="Typing SVG" />
-</p>
+</p> 
 
 ---
 
