@@ -23,7 +23,7 @@
   <a href="mailto:tarun1235saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Tarun00108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Replace # with your actual portfolio URL -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
+  <a href="https://gamma.app/docs/Tarun-Saini-4lprwc7265c0od4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
 </p>
 
 ## 💼 Experience:
